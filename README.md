@@ -1,0 +1,5 @@
+- 👋 Hi whats up? The name's London.
+- 👀 I’m a full-time student hoping to learn as much as I can from all kinds of developers in the industry.
+- 🌱 I’m currently learning Computer System's Engineering, doing my 2nd year.
+- 💞️ I’m looking to collaborate on as many projects as I can so that I can gain experience and develop a deeper understanding of my Modules.
+- 📫 Student email: 218367658@tut4life.ac.za
